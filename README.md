@@ -1,6 +1,6 @@
 # Welcome to my Windows Theme!
 
-I was inspired by windows ricing and decided to try and emulate that same feeling in windows! 
+I was inspired by linux ricing and decided to try and emulate that same feeling in windows! 
 
 This was build with various applications and a small amount of CSS, HTML, and configuring to get everything working properly.
 
