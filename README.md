@@ -25,6 +25,6 @@ This was build with various applications and a small amount of CSS, HTML, and co
 
 [Power Toys Run](https://github.com/microsoft/PowerToys)
 
-[Wezterm Terminal](https://pages.github.com/)
+[Wezterm Terminal](https://github.com/wezterm/wezterm)
 
-[Yazi File Manager](https://github.com/wezterm/wezterm)
+[Yazi File Manager](https://github.com/sxyazi/yazi)
